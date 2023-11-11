@@ -11,7 +11,6 @@ document.getElementById("result").innerHTML = "リンク　https://drive.google.
         }
         var textWithLink = str.replace(regexp_url, regexp_makeLink);
         document.getElementById('result').innerHTML = textWithLink
-        }
 </script>
 }
 }
