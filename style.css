@@ -1,7 +1,0 @@
-window.onload = function(){
-document.getElementById("checkButton").onclick = function(){
-var str1 = document.getElementById("linkmain").value;
-var str1
-document.getElementById("result").innerHTML = "リンク:https://drive.google.com/uc?id=+str1+&export=download";
-}
-}
